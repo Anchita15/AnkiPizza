@@ -28,15 +28,25 @@
 
 ## 📸 Project Preview
 
-![AnkiPizza Preview](https://anchita15.github.io/AnkiPizza/assets/screenshot.png) <!-- Update if needed -->
+## 📸 Screenshots
 
----
+### 🏠 Homepage
+![Homepage](./assets/p1.png)
 
-## 🚀 Getting Started
+### 🍕 Menu Section
+![Menu](./assets/p2.png)
 
-To run locally:
+### 📱 Mobile View
+![Mobile View](./assets/p3.png)
 
-```bash
-git clone https://github.com/anchita15/AnkiPizza.git
-cd AnkiPizza
-open index.html
+### 📋 About Section
+![About Section](./assets/p4.png)
+
+### 📞 Contact Section
+![Contact](./assets/p5.png)
+
+### 🔄 Scroll & Layout View
+![Layout](./assets/p6.png)
+
+
+
