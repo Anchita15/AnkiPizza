@@ -16,7 +16,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown("### 🍕 AnkiPizza")
-st.caption("This Streamlit app displays your GitHub Pages site.")
+
 
 # Load your site directly. Adjust height if you need more/less.
 components.iframe(PAGES_URL, height=1800, scrolling=True)
